@@ -1,0 +1,24 @@
+_repo: The-Fibonacci-Number-Series_302
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Husted, Michael
+    gutenberg_agent_id: '171'
+    url: http://www.gutenberg.org/2009/agents/171
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '1995-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '302'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics'
+- !lcsh 'Fibonacci numbers'
+- GITenberg
+title: The Fibonacci Number Series
+url: http://www.gutenberg.org/ebooks/302
